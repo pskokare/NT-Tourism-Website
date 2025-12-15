@@ -234,6 +234,7 @@ export default function Home() {
                     transition={{ duration: 0.5, delay: 0.1 }}
                     className="lg:col-span-12"
                   >
+                    {/*hii*/}
                     <div className="flex bg-white/50 backdrop-blur-sm rounded-2xl p-1 border border-white/30">
                       <button 
                         type="button"
